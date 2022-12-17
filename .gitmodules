@@ -1,0 +1,3 @@
+[submodule "server/TrainLocations"]
+	path = server/TrainLocations
+	url = https://github.com/VeetiVili/TrainLocations
