@@ -1,3 +1,6 @@
 [submodule "server/TrainLocations"]
 	path = server/TrainLocations
 	url = https://github.com/VeetiVili/TrainLocations
+[submodule "client/TrainLocations"]
+	path = client/TrainLocations
+	url = https://github.com/VeetiVili/TrainLocations
